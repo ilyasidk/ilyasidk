@@ -38,6 +38,28 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasidk&layout=compact&theme=minimal&hide_border=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilyasidk&theme=minimal&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=ilyasidk&theme=minimal&no-frame=true&column=7)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/ilyasidk/ilyasidk/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 ---
@@ -48,7 +70,7 @@
 **Tensegrity Robot Control System** - Advanced PID controller for tensegrity-based robotics
 - Arduino-based control system
 - Linear actuator management
-- Research collaboration with ISSAI
+- SRP ISSAI
 
 ### 🏆 Competitive Robotics Coaching
 **Student Mentorship Program** - Training students for robotics competitions and olympiads
@@ -80,6 +102,26 @@
 
 ---
 
+## 🌙 Current Moon Phase
+
+<div align="center">
+
+![Moon Phase](https://github.com/ilyasidk/ilyasidk/blob/main/moon.svg)
+
+</div>
+
+---
+
+## 📊 Activity Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ilyasidk&theme=minimal&hide_border=true&custom_title=GitHub%20Activity%20Graph)
+
+</div>
+
+---
+
 ## Contact
 
 **Email:** [ilyasmakhatov24@gmail.com](mailto:ilyasmakhatov24@gmail.com)  
@@ -90,5 +132,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ilyasidk&style=flat&color=gray)
+
+**Thanks for visiting!** ⭐
 
 </div>
