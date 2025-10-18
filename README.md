@@ -15,6 +15,8 @@
 
 - **Full-Stack Developer** specializing in React, Node.js, TypeScript
 - **AI Researcher** exploring machine learning and intelligent systems
+- **Competitive Robotics** participant in robotics olympiads and competitions
+- **Robotics Coach** mentoring students in competitive robotics
 - **Tensegrity Enthusiast** working on robotic control systems
 - **Problem Solver** creating real-world business solutions
 
@@ -22,7 +24,8 @@
 
 **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
 **Backend:** Node.js, Express.js, MongoDB, PostgreSQL  
-**Tools:** Docker, Git, Arduino  
+**Robotics:** Arduino, C++, PID Control, Sensor Integration  
+**Tools:** Docker, Git, ROS (Robot Operating System)  
 **AI/ML:** Python, TensorFlow, Neural Networks
 
 ---
@@ -46,6 +49,12 @@
 - Arduino-based control system
 - Linear actuator management
 - Research collaboration with ISSAI
+
+### 🏆 Competitive Robotics Coaching
+**Student Mentorship Program** - Training students for robotics competitions and olympiads
+- Competition strategy development
+- Technical skill building
+- Team leadership and project management
 
 ### 📄 DocFlow
 **Document Management System** - Enterprise-grade document workflow solution
