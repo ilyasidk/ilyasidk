@@ -88,26 +88,6 @@
 
 ---
 
-## 🌙 Current Moon Phase
-
-<div align="center">
-
-![Moon Phase](https://github.com/ilyasidk/ilyasidk/blob/main/moon.svg)
-
-</div>
-
----
-
-## 📊 Activity Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ilyasidk&theme=minimal&hide_border=true&custom_title=GitHub%20Activity%20Graph)
-
-</div>
-
----
-
 ## Contact
 
 **Email:** [ilyasmakhatov24@gmail.com](mailto:ilyasmakhatov24@gmail.com)  
