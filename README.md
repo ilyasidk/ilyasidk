@@ -13,7 +13,7 @@
 
 ## About Me
 
-- **Full-Stack Developer** specializing in React, Node.js, TypeScript
+- **Junior Full-Stack Developer** specializing in React, Node.js, TypeScript
 - **AI Researcher** exploring machine learning and intelligent systems
 - **Competitive Robotics** participant in robotics olympiads and competitions
 - **Robotics Coach** mentoring students in competitive robotics
