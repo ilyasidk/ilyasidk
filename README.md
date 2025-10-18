@@ -34,10 +34,6 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilyasidk&show_icons=true&theme=minimal&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasidk&layout=compact&theme=minimal&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilyasidk&theme=minimal&hide_border=true)
 
 </div>
@@ -49,16 +45,6 @@
 <div align="center">
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=ilyasidk&theme=minimal&no-frame=true&column=7)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/ilyasidk/ilyasidk/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
