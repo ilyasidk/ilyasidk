@@ -40,16 +40,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=ilyasidk&theme=minimal&no-frame=true&column=7)
-
-</div>
-
----
-
 ## Featured Projects
 
 ### 🤖 ISSAI Research Project
