@@ -30,7 +30,7 @@
 | **Backend** | Node.js, Express.js, MongoDB, PostgreSQL |
 | **AI / ML** | Python, TensorFlow, Neural Networks |
 | **Robotics** | Arduino, C++, PID Control, Sensor Fusion |
-| **Tools** | Docker, Git, ROS, Vercel, Linux |
+| **Tools** | Docker, Git, Vercel, Linux |
 
 ---
 
