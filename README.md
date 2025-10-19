@@ -78,13 +78,9 @@ AI-Powered Learning Platform — intelligent flashcard system
 
 <div align="center">
 
-![Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=ilyasidk&layout=compact&theme=transparent&hide_border=true)  
-
 🧮 **Random Dev Quote:**  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)  
 
-🪄 **Snake Animation:**  
-![snake gif](https://github.com/ilyasidk/ilyasidk/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
