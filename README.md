@@ -17,7 +17,7 @@
 - **AI Researcher** exploring machine learning and intelligent systems
 - **Competitive Robotics** participant in robotics olympiads and competitions
 - **Robotics Coach** mentoring students in competitive robotics
-- **Tensegrity Enthusiast** working on robotic control systems
+- **Robotics Enthusiast** working on robotic control systems
 - **Problem Solver** creating real-world business solutions
 
 ## Tech Stack
