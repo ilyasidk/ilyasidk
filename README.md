@@ -2,7 +2,7 @@
 
 # Hi there! I'm Ilyas 👋
 
-### 🚀 Full-Stack Developer | 🤖 AI Enthusiast | 🦾 Robotics Innovator  
+### 🚀 Software engineer | 🤖 AI Enthusiast | 🦾 Robotics Innovator  
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ilyasmakhatov24@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ilmktv)
@@ -14,7 +14,7 @@
 
 ## 🧠 About Me  
 
-- 🧩 **Full-Stack Developer** — React, Node.js, TypeScript  
+- 🧩 **Software engineer** — React, Node.js, TypeScript  
 - 🤖 **AI Researcher** — machine learning & intelligent control systems  
 - ⚙️ **Robotics Coach & Competitor** — national olympiads and mentoring  
 - 🧭 **Problem Solver** — building efficient and scalable software  
