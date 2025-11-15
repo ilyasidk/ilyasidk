@@ -4,7 +4,7 @@
 
 ### 🚀 Software engineer | 🤖 AI Enthusiast | 🦾 Robotics Innovator  
 
-[![Website](https://img.shields.io/badge/Website-makhatov.dev-000000?style=flat&logo=vercel&logoColor=white)]([https://makhatov.dev](https://cv-six-ivory.vercel.app/))
+[![Website](https://img.shields.io/badge/Website-makhatov.dev-000000?style=flat&logo=vercel&logoColor=white)]([https://cv-six-ivory.vercel.app/](https://cv-six-ivory.vercel.app/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ilyasmakhatov24@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ilmktv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilyas-makhatov-b4a674388/)
