@@ -6,7 +6,7 @@
 <br/>
 
 <a href="https://cv-six-ivory.vercel.app/" target="_blank" style="font-weight:700;">
-  🚀 View Portfolio
+  🎓 Visit Online Admission Portfolio Website
 </a>
 
 </div>
