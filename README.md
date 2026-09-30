@@ -18,7 +18,7 @@ AI engineer working on production LLM systems. Currently building the in-game **
 ## Highlights
 
 - **[coregit.dev](https://coregit.dev)** — serverless Git API for AI agents: atomic 1,000-file commits, Git Smart HTTP, semantic search; 0 → 60+ users. Founders Inc. Canopy '26
-- **[ML-based PID auto-tuning](https://github.com/ilyasidk/ml-pid-optimization)** — independent research preprint (TechRxiv), cited in *PeerJ Computer Science* (Q2); 78–90% improvement over classical tuning
+- **[ML-based PID auto-tuning](https://github.com/ilyasidk/ml-pid-optimization)** — independent research preprint (TechRxiv), cited in *PeerJ Computer Science* (Q2)
 - **World Robot Olympiad 2024** — international final, 5th of 60 teams (top ~0.2% of 70k+ participants)
 - Research & training programs: **ISSAI** (Nazarbayev University), **KAIST**
 
