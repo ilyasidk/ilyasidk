@@ -13,7 +13,6 @@ AI engineer working on production LLM systems. Currently building the in-game **
 ## What I do
 
 - **LLM systems:** RAG & retrieval, agent harnesses, evals, fine-tuning (LoRA/QLoRA)
-- **Multi-agent engineering:** I run a multi-agent Claude Code "robot farm" daily — ticket routing across models, research/code/review pipelines, adversarial verification of results
 - **Full-stack:** TypeScript · React/Next.js · Node.js · Python/FastAPI · PostgreSQL/MongoDB · Docker · Cloudflare Workers
 
 ## Highlights
